@@ -1,0 +1,10 @@
+1.cd
+2.pwd
+3.ls
+4.mkdir
+5.touch
+6.cp
+7.mv
+8.rm
+9.vim
+10.cat 
